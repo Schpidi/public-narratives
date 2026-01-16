@@ -1,5 +1,9 @@
 ---
 cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nvisionpublic/nvision-green-roofs-cover.webp
+
+domain: Sustainable Cities
+tags: remote sensing, computer vision, city planning
+provider: N Vision
 ---
 
 # Green Roof Mapping
